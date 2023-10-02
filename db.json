@@ -1,0 +1,22 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Saravanan",
+        "email": "MrKing@gmail.com",
+        "pass": "1234567"
+      },
+      {
+        "id": 2,
+        "name": "Ajith",
+        "email": "AK01@gmail.com",
+        "pass": "AKajith"
+      },
+      {
+        "id": 3,
+        "name": "Lokesh",
+        "email": "Loki@gmail.com",
+        "pass": "lokesh123"
+      }
+    ]
+}
